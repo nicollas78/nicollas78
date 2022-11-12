@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 ### Olá! sou Nicollas Antonio 👋 
 
 [![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](h); 
@@ -18,4 +15,6 @@
 <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
-</div>
+</div></br>
+
+Apaixonado por tecnologia!!
